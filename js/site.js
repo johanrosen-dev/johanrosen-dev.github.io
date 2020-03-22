@@ -1013,7 +1013,7 @@ var itemData = {
             " An Invisible monster walks around the base who you must hide from. Use your flashlight to turn the monster visible and to freeze it, while using the radar to detect sounds." +
             " Find the 4 batteries located around the place to escape this nightmare." +
             "<br><br>Check out our project page with official gameplay trailer at <a href='https://www.playgroundsquad.com/spelprojekt/station-5/'>playgroundsquad.com</a>",
-            contrib: "<ul><li>Acted as lead programmer, which meant I worked tighly with the programmers and the other disciplines. I had responsibility for planning the programmer backlog each week with the reast of the leads.</li>" +
+            contrib: "<ul><li>Acted as lead programmer, which meant I worked tighly with the programmers and the other disciplines. I had responsibility for planning the programmer backlog each week with the rest of the leads.</li>" +
             "<li>We used my own rendering engine. It's a multithreaded, data oriented, multi platform renderer that's designed with speed in mind.</li>" + 
             "<li>We also used my ecs in this game, which is a highly optimized data oriented ecs that is simple to use and with clear api.</li>" +
             "<li>Ported the renderer to PS4.</li>" +
